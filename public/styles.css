@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap");
+
+body {
+  font-family: "Work Sans", serif;
+  text-align: center;
+  margin-top: 50px;
+}
+
+h1 {
+  color: lightslategray;
+}
+
+.book-parent {
+  display: grid;
+  align-items: center;
+  padding: 20px;
+}
+
+.book-header {
+  color: lightsteelblue;
+}
+
+.list-item {
+  list-style-type: none;
+  margin: 5px;
+}
